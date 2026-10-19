@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f7f2e8"/><stop offset="1" stop-color="#ede6d9"/></linearGradient></defs>
+  <rect width="1920" height="1080" fill="url(#paper)"/>
+  <path d="M1410 1080C1190 956 1208 745 1450 676C1684 609 1770 412 1656 203C1591 82 1605 29 1660 0H1920V1080Z" fill="#d8b6aa" opacity=".48"/>
+  <path d="M1920 765C1638 782 1581 650 1601 487C1629 273 1475 233 1309 292C1214 325 1190 191 1267 96" fill="none" stroke="#849075" stroke-width="2.5"/>
+  <path d="M1920 819C1684 832 1512 711 1548 483C1582 267 1400 203 1257 244" fill="none" stroke="#a2ab8d" stroke-width="1.5"/>
+  <path d="M1520 866C1475 833 1420 770 1402 698M1402 698C1344 681 1304 657 1282 610M1402 698C1432 645 1453 595 1443 546" fill="none" stroke="#78826a" stroke-width="2.5"/>
+  <rect x="105" y="105" width="1710" height="870" rx="3" fill="none" stroke="#c8bfad"/>
+  <g font-family="'Noto Serif SC','SimSun',serif" fill="#514738">
+    <text x="165" y="221" font-size="29" letter-spacing="9" fill="#7a8064">电影美学课堂 · 导赏手记</text>
+    <text x="160" y="429" font-size="96">“我”的身体，</text>
+    <text x="160" y="568" font-size="96">谁来许可？</text>
+    <text x="165" y="697" font-size="38" fill="#69734f">《我，许可》的日常现实主义与温暖表达</text>
+    <text x="165" y="857" font-size="28" fill="#92766b">课堂展示预览版 · 8分钟 · 点击播放开始观看</text>
+  </g>
+  <path d="M165 756H366" stroke="#ae887c" stroke-width="2"/>
+</svg>
